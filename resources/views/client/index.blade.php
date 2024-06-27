@@ -27,10 +27,10 @@
 
         </div>
     </div>
-    <!-- Pagination -->
-    <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide"><i class="flaticon-left"></i>
+
+    <!-- <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide"><i class="flaticon-left"></i>
     </div>
-    <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide"><i class="flaticon-right"></i></div>
+    <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide"><i class="flaticon-right"></i></div> -->
 </section>
 
 

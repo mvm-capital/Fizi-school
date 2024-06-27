@@ -6,7 +6,7 @@
           <div class="col-xl-7 col-lg-9 col-md-12 text-center pt-md-5">
             <h1 class="text-white mb-2">Donate</h1>
             <ol class="breadcrumb mb-0 p-0">
-              <li class="breadcrumb-item"><a href="index-2.html"><i class="fa fa-home pr-2"></i>Home</a></li>
+              <li class="breadcrumb-item"><a href="{{route('client.home')}}"><i class="fa fa-home pr-2"></i>Home</a></li>
               <li class="breadcrumb-item active"><span>Donate</span></li>
             </ol>
           </div>

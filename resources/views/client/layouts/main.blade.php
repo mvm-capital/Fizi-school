@@ -44,7 +44,7 @@
         <nav class="navbar navbar-static-top navbar-expand-lg header-sticky">
             <div class="container">
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse"><i class="fas fa-align-left"></i></button>
-                <a class=" navbar-brand" href="{{route('home')}}">
+                <a class=" navbar-brand img-fluid logo-sticky" href="{{route('home')}}">
                     <h3>Fizi School</h3>
                 </a>
                 <div class="navbar-collapse collapse justify-content-center">
