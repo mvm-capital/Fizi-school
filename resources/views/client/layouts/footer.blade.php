@@ -59,8 +59,8 @@
             <div class="footer-contact-info">
               <ul class="list-unstyled mb-0">
                 <li><a href="https://www.google.com/maps/place/Fizi+School/@-1.2911076,36.718344,17z/data=!3m1!4b1!4m6!3m5!1s0x182f1bb3116c6d0f:0xf288093da0a3a203!8m2!3d-1.2911076!4d36.7209189!16s%2Fg%2F11lctwf4y7?entry=ttu"><i class="fas fa-fw fa-map-marker-alt text-primary"></i><span>Kabiria, Nairobi, Nairobi 00100, KE</span></a></li>
-                <li><i class="fas fa-fw fa-phone-alt text-primary"></i><span>(+254)(0)758316403</span></li>
-                <li><i class="far fa-fw fa-envelope text-primary"></i><span>manasseh.maina@strathmore.edu</span></li>
+                <li><i class="fas fa-fw fa-phone-alt text-primary"></i><span>(+254)(0)712345678</span></li>
+                <li><i class="far fa-fw fa-envelope text-primary"></i><span>contact@fizischool.com</span></li>
               </ul>
             </div>
             <div class="social-icon">
