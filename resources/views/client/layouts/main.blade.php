@@ -44,11 +44,13 @@
         <nav class="navbar navbar-static-top navbar-expand-lg header-sticky">
             <div class="container">
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse"><i class="fas fa-align-left"></i></button>
-                <a class="navbar-brand" href="{{route('home')}}">
-                    <h3 style="color:white;">Fizi School</h3>
+                <a class=" navbar-brand" href="{{route('home')}}">
+                    <h3>Fizi School</h3>
                 </a>
                 <div class="navbar-collapse collapse justify-content-center">
                     <ul class="nav navbar-nav">
+
+
                         <li class="nav-item ">
                             <a class="nav-link" href="{{route('client.home')}}">Home</a>
 
@@ -67,10 +69,16 @@
                             <a class="nav-link" href="{{route('client.contact')}}">Contact Us</a>
                         </li>
                     </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="nav-item">
+                        <div class=" navbar-collapse collapse" >
+                    <a class="btn btn-primary btn-round nav-item" href="{{route('client.donate')}}">Make a Donation</a>
                 </div>
-                <div class="add-listing d-none d-sm-block">
-                    <a class="btn btn-primary btn-round" href="{{route('client.donate')}}">Make a Donation</a>
+                        </li>
+                    </ul>
+
                 </div>
+
             </div>
         </nav>
     </header>
