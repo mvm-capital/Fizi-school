@@ -201,4 +201,16 @@
 
 <!-- Template Scripts (Do not remove)-->
 <script src="js/custom.js"></script>
+
+<script>
+    $(document).ready(function() {
+    $('.portfolio-item').magnificPopup({
+        type: 'image',
+        gallery:{
+            enabled:true
+        }
+    });
+});
+
+</script>
 @endsection
