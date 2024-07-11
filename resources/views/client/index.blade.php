@@ -10,7 +10,7 @@
 <section class="slider-01">
     <div id="main-slider" class="swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide align-items-center d-flex bg-overlay-dark-50" style="background-image: url(images/slider/home-01/02.jpg); background-size: cover; background-position: center center;">
+            <div class="swiper-slide align-items-center d-flex bg-overlay-dark-50" style="background-image: url(images/slider/home-01/04.jpeg); background-size: cover; background-position: center center;">
                 <div class="swipeinner container">
                     <div class="row justify-content-center text-center">
                         <div class="col-xl-8 col-md-9 col-sm-10">
@@ -28,9 +28,9 @@
         </div>
     </div>
 
-    <!-- <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide"><i class="flaticon-left"></i>
+    <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide"><i class="flaticon-left"></i>
     </div>
-    <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide"><i class="flaticon-right"></i></div> -->
+    <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide"><i class="flaticon-right"></i></div>
 </section>
 
 
