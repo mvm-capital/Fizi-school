@@ -15,7 +15,7 @@
     <title>Fizi School</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ asset('images/favicon.ico') }}" />
+    
 
     @yield('styles')
 

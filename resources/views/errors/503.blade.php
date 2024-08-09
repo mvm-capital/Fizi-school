@@ -6,7 +6,7 @@
     <title>Maintenance</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('admin/images/favicon.ico') }}">
+
 
     <!-- Preloader CSS -->
     <link rel="stylesheet" href="{{ asset('admin/css/preloader.min.css') }}" type="text/css" />
@@ -77,7 +77,7 @@
             </div>
             <h3 class="mt-4 text-light">Site is Under Maintenance</h3>
             <p>We're currently undergoing maintenance to improve our website. In the meantime, you can still reach out to us for any urgent inquiries or assistance.</p>
-            
+
             <p>Please contact us at <a href="mailto:contact@fizischool.com">contact@fizischool.com</a> or call us at (+254)(0)757 205 459.</p>
         </div>
     </div>
