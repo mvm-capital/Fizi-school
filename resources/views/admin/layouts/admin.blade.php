@@ -314,7 +314,11 @@
                                         <li><a href="apps-email-read.html" data-key="t-read-email">Read Email</a></li>
                                     </ul>
                                 </li>
+<<<<<<< HEAD
 
+=======
+                               
+>>>>>>> 07439b7454f241af4de6b24dc6d5385c3b085994
                                 <li>
                                     <a href="javascript: void(0);" class="has-arrow">
                                         <span data-key="t-contacts">Contacts</span>
