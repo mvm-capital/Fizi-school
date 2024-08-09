@@ -318,15 +318,7 @@
                                         <li><a href="apps-email-read.html" data-key="t-read-email">Read Email</a></li>
                                     </ul>
                                 </li>
-                                <li>
-                                    <a href="javascript: void(0);" class="has-arrow">
-                                        <span data-key="t-invoices">Invoices</span>
-                                    </a>
-                                    <ul class="sub-menu" aria-expanded="false">
-                                        <li><a href="apps-invoices-list.html" data-key="t-invoice-list">Invoice List</a></li>
-                                        <li><a href="apps-invoices-detail.html" data-key="t-invoice-detail">Invoice Detail</a></li>
-                                    </ul>
-                                </li>
+                               
                                 <li>
                                     <a href="javascript: void(0);" class="has-arrow">
                                         <span data-key="t-contacts">Contacts</span>
