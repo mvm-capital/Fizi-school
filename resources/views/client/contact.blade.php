@@ -17,99 +17,95 @@
 
 
 <section class="space-pt">
-      <div class="container">
+    <div class="container">
         <div class="row">
-          <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-            <div class="feature-item feature-item-shadow p-5 text-center">
-              <div class="feature-item-icon">
-                <i class="flaticon-donation text-primary"></i>
-              </div>
-              <div class="feature-item-content">
-                <h4 class="mb-3">Email</h4>
-                <span>mainamanasseh02@gmail.com</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-            <div class="feature-item feature-item-shadow p-5 text-center">
-              <div class="feature-item-icon">
-                <i class="flaticon-charity-3 text-primary"></i>
-              </div>
-              <div class="feature-item-content">
-                <h4 class="mb-3">Phone</h4>
-                <span class="d-block mb-1">(+254)(0)758316403</span>
-
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="feature-item feature-item-shadow p-5 text-center">
-              <div class="feature-item-icon">
-                <i class="flaticon-volunteer-1 text-primary"></i>
-              </div>
-              <div class="feature-item-content">
-                <h4 class="mb-3">Address</h4>
-                <span class="d-block mb-1">Kabiria, Nairobi, Nairobi 00100, KE</span>
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="space-ptb">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 h-100 mb-4 mb-md-0">
-            <div class="bg-white shadow p-4 p-lg-5">
-              <div class="section-title">
-                <h2 class="title">Let’s Get In Touch!</h2>
-                <p class="lead mb-0">Walk out 10 years into your future and feel how it feels to carry on doing the same thing.</p>
-              </div>
-              <form>
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="form-group">
-                            <input type="text" name="name" id="first-name" class="form-control" placeholder="First Name">
-                        </div>
+            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                <div class="feature-item feature-item-shadow p-5 text-center">
+                    <div class="feature-item-icon">
+                        <i class="flaticon-donation text-primary"></i>
                     </div>
-
-                    <div class="col-lg-6">
-                        <div class="form-group">
-                            <input type="text" name="name" class="form-control" placeholder="Last Name">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-12">
-                        <div class="form-group">
-                            <input type="text" name="text" class="form-control" placeholder="Email">
-                        </div>
-                    </div>
-                    <div class="col-lg-12">
-                        <div class="form-group">
-                            <textarea placeholder="Enter your massage" class="form-control" rows="5" spellcheck="false"></textarea>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-12 mt-3">
-                        <div class="causes-details-btn">
-                            <a href="#" class="btn btn-primary btn-round">
-                                Send Message
-                                <span></span>
-                            </a>
-                        </div>
+                    <div class="feature-item-content">
+                        <h4 class="mb-3">Email</h4>
+                        <span>contact@fizischool.com</span>
                     </div>
                 </div>
-              </form>
             </div>
-          </div>
-          <div class="col-md-6 h-100">
-            <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5641.022316984011!2d36.71967097898845!3d-1.2912641803751914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1bb3116c6d0f%3A0xf288093da0a3a203!2sFizi%20School!5e0!3m2!1sen!2ske!4v1719193389697!5m2!1sen!2ske"style="border:0;" allowfullscreen="" height="618px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                <div class="feature-item feature-item-shadow p-5 text-center">
+                    <div class="feature-item-icon">
+                        <i class="flaticon-charity-3 text-primary"></i>
+                    </div>
+                    <div class="feature-item-content">
+                        <h4 class="mb-3">Phone</h4>
+                        <span class="d-block mb-1">(+254)(0)757 205 459</span>
+
+                    </div>
+                </div>
             </div>
-          </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="feature-item feature-item-shadow p-5 text-center">
+                    <div class="feature-item-icon">
+                        <i class="flaticon-volunteer-1 text-primary"></i>
+                    </div>
+                    <div class="feature-item-content">
+                        <h4 class="mb-3">Address</h4>
+                        <span class="d-block mb-1">Kabiria, Nairobi, Nairobi 00100, KE</span>
+
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </section>
+    </div>
+</section>
+
+<section class="space-ptb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 h-100 mb-4 mb-md-0">
+                <div class="bg-white shadow p-4 p-lg-5">
+                    <div class="section-title">
+                        <h2 class="title">Let’s Get In Touch!</h2>
+                        <p class="lead mb-0">Walk out 10 years into your future and feel how it feels to carry on doing the same thing.</p>
+                    </div>
+                    <form action="{{ route('send.email') }}" method="POST">
+                        @csrf
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <input type="text" name="first_name" class="form-control" placeholder="First Name" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <input type="text" name="last_name" class="form-control" placeholder="Last Name" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" placeholder="Email" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <textarea name="message" placeholder="Enter your message" class="form-control" rows="5" spellcheck="false" required></textarea>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 mt-3">
+                                <div class="causes-details-btn">
+                                    <button type="submit" class="btn btn-primary btn-round">Send Message</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+            <div class="col-md-6 h-100">
+                <div class="map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5641.022316984011!2d36.71967097898845!3d-1.2912641803751914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1bb3116c6d0f%3A0xf288093da0a3a203!2sFizi%20School!5e0!3m2!1sen!2ske!4v1719193389697!5m2!1sen!2ske" style="border:0;" allowfullscreen="" height="618px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 @endsection

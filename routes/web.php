@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\adminController;
+use App\Http\Controllers\contactController;
 use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
@@ -31,3 +33,12 @@ Route::get('/contact',[HomeController::class, 'contact'])->name('client.contact'
 Route::get('/donate',[HomeController::class, 'donate'])->name('client.donate');
 
 Route::get('/blog_detail',[HomeController::class, 'blogDetail'])->name('client.blog_detail');
+
+
+Route::post('/send-email', [contactController::class, 'sendEmail'])->name('send.email');
+
+Route::get('/Maintenance',[HomeController::class, 'maintenance'])->name('error.maintenance');
+
+
+//---------------------------------------------------aDMIN ROUTES-------------------------------------------------
+Route::get('/dashboard',[adminController::class, 'show'])->name('admin.home');

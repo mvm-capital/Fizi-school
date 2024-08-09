@@ -32,4 +32,8 @@ class HomeController extends Controller
     public function donate(){
         return view('client.donate');
     }
+
+    public function maintenance(){
+        return view('errors.503');
+    }
 }
