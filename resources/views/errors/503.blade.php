@@ -21,17 +21,50 @@
     <link href="{{ asset('admin/css/app.min.css') }}" id="app-style" rel="stylesheet" type="text/css" />
 
     <style>
-        .bg-image {
-            position: relative;
-            background-image: url('{{ asset('admin/images/IMG_0247.jpg') }}');
-            background-size: cover;
-            background-position: center;
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #fff; /* Text color */
-        }
+  .bg-image {
+    position: relative;
+    background-image: url('/admin/images/IMG_0247.JPG');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; /* Text color */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.bg-image::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent overlay */
+    z-index: 1; /* Place the overlay below the content */
+}
+
+.container {
+    position: relative;
+    z-index: 2; /* Ensure the content is above the overlay */
+    text-align: center;
+}
+
+.logo-txt-large {
+    font-size: 50px; /* Adjust the font size here */
+}
+
+.btn-outline-primary {
+    border-color: #fff; /* Button border color */
+    color: #fff; /* Button text color */
+}
+
+.btn-outline-primary:hover {
+    background-color: #fff; /* Button background color on hover */
+    color: #000; /* Button text color on hover */
+}
+
 
         .bg-image::before {
             content: '';
