@@ -137,7 +137,7 @@
             </div>
             <p>We're currently undergoing maintenance to improve our website. In the meantime, you can still reach out to us for any urgent inquiries or assistance.</p>
 
-            <p>Please contact us at <a href="mailto:contact@fizischool.com">contact@fizischool.com</a> or call us at (+254)(0)757 205 459.</p>
+            <p class="text-light">Please contact us at <a href="mailto:contact@fizischool.com">contact@fizischool.com</a> or call us at (+254)(0)757 205 459.</p>
         </div>
     </div>
     <!-- end -->
