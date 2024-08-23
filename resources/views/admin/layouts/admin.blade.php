@@ -304,6 +304,9 @@
                                 <span data-key="t-dashboard">Dashboard</span>
                             </a>
                         </li>
+                        <hr>
+                        <!-- User Management module -->
+                        <li class="menu-title">User Management</li>
 
                         <li>
                             <a href="javascript: void(0);" class="has-arrow">
